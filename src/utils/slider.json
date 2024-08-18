@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Aashirwad Residency",
+    "price": "47,043",
+    "detail": "Garden City Road, Sector 45, Noida, Uttar Pradesh",
+    "image": "./r1.png"
+  },
+  {
+    "name": "Srishti Enclave",
+    "price": "66,353",
+    "detail": "Sanjay Gandhi Road No.215, Malad East, Mumbai, Maharashtra",
+    "image": "./r2.png"
+  },
+  {
+    "name": "Sunrise Apartments",
+    "price": "35,853",
+    "detail": "D-Block, Green Park, Bangalore, Karnataka",
+    "image": "./r3.png"
+  },
+  {
+    "name": "Ridgeview Heights",
+    "price": "52,780",
+    "detail": "Pallikaranai, Chennai, Tamil Nadu",
+    "image": "./r1.png"
+  },
+  {
+    "name": "Palm Grove Residences",
+    "price": "78,950",
+    "detail": "Vasant Vihar, New Delhi",
+    "image": "./r2.png"
+  },
+  {
+    "name": "Harmony Towers",
+    "price": "40,220",
+    "detail": "Gachibowli, Hyderabad, Telangana",
+    "image": "./r3.png"
+  }
+]
