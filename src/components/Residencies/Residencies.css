@@ -26,66 +26,6 @@
   margin-top: 0.5rem;
 }
 
-.r-card {
-  width: 300px;
-  height: 400px; 
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: space-between;
-  padding: 10px;
-  background-color: #ffffff;
-  border: 1px solid #ddd;
-  border-radius: 10px;
-  box-shadow: 0 10px 20px rgba(0, 0, 0, 0.1);
-  transition: transform 0.3s ease-in-out, box-shadow 0.3s ease-in-out;
-}
-
-.r-card img {
-  width: 100%;
-  height: 200px;
-  object-fit: cover;
-  border-radius: 10px;
-  transition: transform 0.3s ease-in-out;
-}
-
-.r-card:hover img {
-  transform: scale(1.05);
-}
-
-.r-price {
-  margin: 10px 0;
-  font-size: 1.2rem;
-  color: #27ae60; 
-  text-align: center;
-}
-
-.primaryText {
-  font-size: 1.5rem;
-  font-weight: 700;
-  color: #34495e;
-  text-align: center;
-  margin: 5px 0;
-}
-
-.secondaryText {
-  font-size: 0.9rem;
-  color: #7f8c8d;
-  text-align: center;
-  margin: 5px 0;
-}
-
-.r-card:hover {
-  transform: translateY(-10px);
-  cursor: pointer;
-  background: linear-gradient(
-    180deg,
-    rgba(255, 255, 255, 1) 0%,
-    rgba(52, 152, 219, 0.1) 100%
-  );
-  box-shadow: 0 20px 40px rgba(0, 0, 0, 0.15);
-}
-
 .swiper-horizontal {
   overflow: visible;
 }
@@ -135,9 +75,5 @@
     font-size: 1.2rem;
     padding: 0.4rem 0.8rem;
     border-radius: 5px;
-  }
-
-  .r-card {
-    max-width: 100%;
   }
 }

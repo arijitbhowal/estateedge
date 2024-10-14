@@ -1,0 +1,14 @@
+.map-container {
+    height: 40vh; /* Set desired height */
+    width: 100%;  /* Full width */
+    position: relative; /* Allows absolute positioning of children */
+    background-color: rgba(0, 0, 0, 0.1); /* Light background for visibility */
+  }
+  .map-container {
+    background-color: rgba(0, 0, 0, 0.1); /* Light gray for visibility */
+  }
+  .container {
+    display: flex;
+    flex-direction: column; /* or row depending on your layout */
+  }
+    
